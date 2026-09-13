@@ -4,7 +4,7 @@
 
 # week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 # print(week[0:3])
-# print(week[5:])
+# print(week[5:])  
 
 # stationary=["raser", "remover", "ball point" ,"pencil","shapran","pen","color"]
 # stationary.append("marker")
