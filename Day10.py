@@ -2,7 +2,7 @@
 # print(my_favorites[2])
 # print(my_favorites[-1])
 
-# week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+# week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"] 
 # print(week[0:3])
 # print(week[5:])  
 
